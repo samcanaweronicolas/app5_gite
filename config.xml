@@ -11,6 +11,7 @@ version = "1.0.0">
  Aplicaion que realiza la vibracion y beep del Dipositivo
  </description>
  
+ <author href="https://build.poneghap.com" email = "kimaro506@gmail.com">
  	Nicolas Barrera Canales
 	</author>
 	
